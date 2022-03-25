@@ -6,3 +6,6 @@
 <img src = "335956.jpg">
 1. Om
 2. Kharche
+* Tehnical
+* Secretary
+> Roses are red violets aren't blue
